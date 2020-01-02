@@ -1,0 +1,24 @@
+_repo: February-Strawberries_60995
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+    wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
+description: ''
+gutenberg_issued: '2019-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: February Strawberries
+url: http://www.gutenberg.org/ebooks/60995
